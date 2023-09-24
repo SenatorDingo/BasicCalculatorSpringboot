@@ -1,0 +1,35 @@
+body {
+    margin-left: 70px;
+    margin-top: 20px;
+}
+
+h1 {
+    font-size: 30px;
+    font-family: serif;
+    font-weight: bold;
+    background-color: aliceblue;
+}
+
+input {
+    border-style: double;
+    font-size: 18px;
+    width: 150px;
+}
+
+button {
+    background-color: darkcyan;
+    font-size: 18px;
+    color: white;
+    margin-right: 5%;
+}
+
+label {
+    font-size: 20px;
+}
+
+p {
+    font-size: 20px;
+    color: red;
+    font-weight: bold;
+}
+
